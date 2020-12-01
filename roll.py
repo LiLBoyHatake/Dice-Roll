@@ -4,7 +4,7 @@ import tkinter as tk
 min = 1
 max = 6
 
-
+#This script was made by LiLBoyHatake, but feel free to edit it at your own expense
 
 class Application(tk.Frame):
     def __init__(self, master=None):
